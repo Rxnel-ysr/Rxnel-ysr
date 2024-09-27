@@ -1,6 +1,6 @@
+<img style="display: block; margin: 0 auto;" src="https://github.com/user-attachments/assets/a563a16f-64db-4e26-af8f-ad3e0837f1d3" alt="rxnel" />
 <h1 align="center">Hi 👋, I'm Rxnel</h1>
 <h3 align="center">A passionate Wannabe-Full-stack dev</h3>
-<img style="align:center;" src="https://github.com/user-attachments/assets/a563a16f-64db-4e26-af8f-ad3e0837f1d3" alt="rxnel" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxnel-ysr&label=Profile%20views&color=0e75b6&style=flat" alt="rxnel-ysr" /> </p>
 
