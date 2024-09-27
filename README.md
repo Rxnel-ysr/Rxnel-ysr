@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rxnel</h1>
 <h3 align="center">A passionate Wannabe-Full-stack dev</h3>
-![RXNEL](https://github.com/user-attachments/assets/fedb4925-2a10-41a4-a8dc-46c85f236bda)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxnel-ysr&label=Profile%20views&color=0e75b6&style=flat" alt="rxnel-ysr" /> </p>
