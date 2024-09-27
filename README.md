@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a563a16f-64db-4e26-af8f-ad3e0837f1d3" alt="rxnel" border-radius="25px" />
+  <img src="https://github.com/user-attachments/assets/a563a16f-64db-4e26-af8f-ad3e0837f1d3" alt="rxnel" style="border-radius: 25px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Rxnel</h1>
 <h3 align="center">A passionate Wannabe-Full-stack dev</h3>
