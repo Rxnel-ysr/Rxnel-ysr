@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rxnel</h1>
-<h3 align="center">A passionate Wannabe-Full-stack dev from Indonesia</h3>
+<h3 align="center">A passionate Wannabe-Full-stack dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxnel-ysr&label=Profile%20views&color=0e75b6&style=flat" alt="rxnel-ysr" /> </p>
 
-- 🌱 I’m currently learning **Three.js and ERD**
+- 🌱 I’m currently learning:  **Three.js and ERD**
 
-- 💬 Ask me about **How to keep sanity intact**
+- 💬 Ask me about:  **How to keep sanity intact**
 
-- 📫 How to reach me **myusronelyadi@gmail.com**
+- 📫 How to reach me:  **myusronelyadi@gmail.com**
 
-- ⚡ Fun fact **I think I am a little bit Insane**
+- ⚡ Fun fact:  **I think I am a little bit Insane**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
