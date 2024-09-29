@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/a563a16f-64db-4e26-af8f-ad3e0837f1d3" alt="rxnel" style="border-radius: 25px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Rxnel</h1>
-<h3 align="center">A passionate Wannabe-Full-stack dev</h3>
+<h3 align="center">A passionate Code Fanatic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxnel-ysr&label=Profile%20views&color=0e75b6&style=flat" alt="rxnel-ysr" /> </p>
 
