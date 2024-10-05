@@ -10,7 +10,7 @@
 
 - 💬 Ask me about:  **How to keep sanity intact**
 
-- 📫 How to reach me:  **[Gmail](myusronelyadi@gmail.com)**
+- 📫 How to reach me:  **[Gmail](mailto:myusronelyadi@gmail.com)**
 
 - ⚡ Fun fact:  **I think I am a little bit Insane**
 
