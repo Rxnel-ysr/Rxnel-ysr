@@ -4,14 +4,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxnel-ysr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rxnel-ysr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxnel-ysr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rxnel-ysr&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxnel-ysr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-<div align="right">
-  <img height="150" src="https://i.pinimg.com/originals/ef/f7/99/eff799b62d4575c5e83d4f101e6bc554.gif"  />
-</div>
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/ef/f7/99/eff799b62d4575c5e83d4f101e6bc554.gif"  />
+
 ###
 
 <div align="left">
@@ -54,6 +56,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=rxnel-ysr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
