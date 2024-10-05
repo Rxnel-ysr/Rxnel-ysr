@@ -9,9 +9,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/ef/f7/99/eff799b62d4575c5e83d4f101e6bc554.gif"  />
-
+<div align="right">
+  <img height="150" src="https://i.pinimg.com/originals/ef/f7/99/eff799b62d4575c5e83d4f101e6bc554.gif"  />
+</div>
 ###
 
 <div align="left">
