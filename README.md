@@ -1,7 +1,6 @@
 <h2 align="left">Hello 👋! My name is Ronel</h2>
 
 ###
-<a href="https://app.daily.dev/rxnel"><img src="https://api.daily.dev/devcards/v2/FYBCPsRTboBds4CLH63on.png?r=928&type=default" width="356" alt="Ronel's Dev Card"/></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxnel-ysr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -65,3 +64,4 @@
 </div>
 
 ###
+<a href="https://app.daily.dev/rxnel"><img src="https://api.daily.dev/devcards/v2/FYBCPsRTboBds4CLH63on.png?r=928&type=default" width="356" alt="Ronel's Dev Card"/></a>
