@@ -21,16 +21,6 @@
 
 ###
 
-<p align="center"><a href="https://app.daily.dev/rxnel"><img src="https://api.daily.dev/devcards/v2/FYBCPsRTboBds4CLH63on.png?type=wide&r=nzy" width="652" alt="Ronel's Dev Card"/></a></p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rxnel-ysr/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
   <img height="450" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif"  />
 </div>
@@ -38,6 +28,10 @@
 ###
 
 <br clear="both">
+
+<p align="center"><a href="https://app.daily.dev/rxnel"><img src="https://api.daily.dev/devcards/v2/FYBCPsRTboBds4CLH63on.png?type=wide&r=nzy" width="652" alt="Ronel's Dev Card"/></a></p>
+
+###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=rxnel-ysr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
