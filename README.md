@@ -58,4 +58,4 @@
 </div>
 
 ###
-<p align="center"><a href="https://app.daily.dev/rxnel"><img src="https://api.daily.dev/devcards/v2/FYBCPsRTboBds4CLH63on.png?r=928&type=default" width="356" alt="Ronel's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/rxnel"><img src="https://api.daily.dev/devcards/v2/FYBCPsRTboBds4CLH63on.png?type=default&r=nb8" width="356" alt="Ronel's Dev Card"/></a></p>p>
