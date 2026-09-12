@@ -50,7 +50,6 @@ cat ./stack.txt
 
 <div align="center">
 
-![](https://img.shields.io/badge/Assembly-333?style=flat-square&logo=assemblyscript&logoColor=fff)
 ![](https://img.shields.io/badge/C-333?style=flat-square&logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=fff)
