@@ -50,6 +50,7 @@ cat ./stack.txt
 
 <div align="center">
 
+![](https://img.shields.io/badge/Laravel-333?style=flat-square&logo=laravel&logoColor=fff)
 ![](https://img.shields.io/badge/PHP-333?style=flat-square&logo=php&logoColor=fff)
 ![](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=fff)
 ![](https://img.shields.io/badge/Vue.js-333?style=flat-square&logo=vue.js&logoColor=fff)
