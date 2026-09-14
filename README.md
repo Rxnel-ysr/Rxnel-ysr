@@ -50,13 +50,15 @@ cat ./stack.txt
 
 <div align="center">
 
-![](https://img.shields.io/badge/C-333?style=flat-square&logo=c&logoColor=fff)
+![](https://img.shields.io/badge/PHP-333?style=flat-square&logo=php&logoColor=fff)
+![](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=fff)
+![](https://img.shields.io/badge/Vue.js-333?style=flat-square&logo=vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=fff)
 ![](https://img.shields.io/badge/HTML%2FCSS-333?style=flat-square&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/x64dbg-333?style=flat-square&logoColor=fff)
 ![](https://img.shields.io/badge/Ghidra-333?style=flat-square&logoColor=fff)
-![](https://img.shields.io/badge/IDA-333?style=flat-square&logoColor=fff)
+<!-- ![](https://img.shields.io/badge/IDA-333?style=flat-square&logoColor=fff)-->
 
 </div>
 
